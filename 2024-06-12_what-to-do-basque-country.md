@@ -1,4 +1,4 @@
-# What to do in the Basque Country
+# What I recommend to do in the Basque Country
 
 The Basque Country has become a more popular touristic destination in the last few years, which has led to more people asking for recommendations from a local such as myself. I have prioritized stuff that one cannot necesarilly find in guides. Hope you enjoy them :)
 
