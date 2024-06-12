@@ -1,4 +1,4 @@
-Hi! I'm Gorka Eraña. I'm a Basque fella that somehow (in hindsight happily) found its way to Copenhagen.
+Hi! I'm Gorka Eraña, a Basque fella that somehow (in hindsight happily) found its way to Copenhagen.
 
 Profesionally, after studying mathematics and statistics, I went into data science and for the last couple of years have walked across the tech stack into backend development and API design.
 
